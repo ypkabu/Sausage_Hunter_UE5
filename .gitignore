@@ -1,0 +1,77 @@
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio / Rider
+*.sln
+*.VC.db
+*.opensdf
+*.opendb
+*.suo
+*.user
+*.userosscache
+*.sdf
+
+# Packaged builds
+Windows/
+Package/
+PackagedBuilds/
+Build/
+*.exe
+*.pdb
+
+# Logs / temp
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project images (screenshots, thumbnails - not tracked in git)
+images/
+
+# AI local settings
+.claude/
+.codex/
+.cursor/
+.windsurf/
+.ai/
+.ai-cache/
+*.prompt.md
+*_prompt.md
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# ===== Marketplace / Fab アセット (再配布禁止のため除外) =====
+Content/FXVarietyPack/
+Content/StylizedKitchen/
+Content/sA_SplatterofbloodFx/
+Content/Effects/tool/
+
+# ===== Mixamo アニメーション・キャラクター (利用規約により .uasset 再配布制限の懸念) =====
+Content/Animations/Melee/
+Content/Animations/Axe/
+Content/Animations/Rifle/
+Content/Animations/Magic/
+Content/Characters/Mage/Mesh/
+Content/Enemies/hurank/Animation/
+Content/Enemies/pork/Animation/
+Content/Enemies/Sarami/Animation/
+
+# ===== Epic Games 無料公開アセット (Marketplace Standard License による再配布制限の懸念) =====
+Content/ParagonFengMao/
+Content/ParagonGideon/
+Content/ParagonSparrow/
+Content/InfinityBladeEffects/
+Content/StarterContent/
