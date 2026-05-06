@@ -18,8 +18,7 @@
 
 ## デモ
 
-- プレイ動画: URL
-- 写真 / GIF: 追加予定
+- プレイ動画: https://youtu.be/HFQNX9wOxw4
 
 ## ゲームの流れ
 
